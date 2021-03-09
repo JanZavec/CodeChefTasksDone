@@ -1,0 +1,3 @@
+D:/StuffToDo/CBinARy/cmake-build-debug/CMakeFiles/CBinARy.dir
+D:/StuffToDo/CBinARy/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/StuffToDo/CBinARy/cmake-build-debug/CMakeFiles/rebuild_cache.dir
